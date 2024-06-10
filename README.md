@@ -15,5 +15,3 @@ To use this project, simply clone the repository to your local machine:
 ```bash
 git clone https://github.com/Sy-An-C/basic-computer-quiz.git
 
-## License
-Copyright © [2024] [@Sy-An-C]
